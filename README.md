@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working on **Django & Machine Learning**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Django & Machine Learning**
 
-- 💬 Ask me about **Html, Css, JavaScript, React**
+- 💬 Ask me about **C,C++,Java,JavaScript,Python, Html, Css,MongoDb, React,Express,Node,Flask,Django**
 
 - 📫 How to reach me **muhammadzeeshannkn@gmail.com**
 
