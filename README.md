@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Django & Machine Learning**
+- 🔭 I’m currently working on **Django,Flask,FastApi & Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Gen AI/ML**
 
-- 👯 I’m looking to collaborate on **Django & Machine Learning**
+- 👯 I’m looking to collaborate on **Gen AI & Python Based Backend projects**
 
-- 💬 Ask me about **C,C++,Java,JavaScript,Python, Html, Css,MongoDb, React,Express,Node,Flask,Django**
+- 💬 Ask me about **C,C++,Java,JavaScript,Python,Html,Css,Sql,MongoDb,React,Express,Node,Flask,Django,Flask,Fastapi,Pytorch,TensorFlow,Generative AI(RAG,NLP,Transformer)**
 
 - 📫 How to reach me **muhammadzeeshannkn@gmail.com**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-zeeshan-92576323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zeeshan-92576323b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100072234099350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100072234099350" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100072234099350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100072234099350" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
