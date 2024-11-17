@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Django,Flask,FastApi & Machine Learning**
+- 🔭 I’m currently working as **Python Backend(Django,Flask,FastApi) & Gen AI/ML Engineer**
 
 - 🌱 I’m currently learning **Gen AI/ML**
 
